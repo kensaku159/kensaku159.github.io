@@ -1,3 +1,8 @@
 title: "TradingWin"
 description: "A simple personal site"
 theme: jekyll-theme-primer
+
+plugins:
+  - jekyll-optional-front-matter
+
+
